@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "fecha_generacion": "2025-06-14T20:24:05.688110",
+    "fuente_video": "C:/Users/Usuario/OneDrive/Escritorio/deteccionVehicular/1.mp4",
+    "total_vehiculos_unicos": 26,
+    "total_eventos_deteccion": 26,
+    "periodo_analisis": {
+      "inicio": "2025-06-14T20:22:43.571307",
+      "fin": "2025-06-14T20:22:54.222460"
+    }
+  },
+  "resumen_por_tipo": {
+    "Automóvil": 16,
+    "Autobús": 6,
+    "Camión": 4
+  },
+  "vehiculos_unicos_detectados": {
+    "car": [
+      32,
+      1,
+      2,
+      34,
+      4,
+      5,
+      6,
+      36,
+      3,
+      67,
+      69,
+      12,
+      13,
+      45,
+      17,
+      51
+    ],
+    "bus": [
+      3,
+      5,
+      12,
+      14,
+      17,
+      22
+    ],
+    "truck": [
+      4,
+      3,
+      12,
+      5
+    ]
+  },
+  "detecciones_primera_aparicion": [
+    {
+      "timestamp": "2025-06-14T20:22:43.571307",
+      "id_seguimiento": 1,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.7302119731903076,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:43.571307",
+      "id_seguimiento": 2,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.6499612927436829,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:43.571307",
+      "id_seguimiento": 3,
+      "tipo_vehiculo": "Autobús",
+      "confianza": 0.6451565623283386,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:43.571307",
+      "id_seguimiento": 4,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.5861690640449524,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:43.571307",
+      "id_seguimiento": 5,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.5546467900276184,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:43.571307",
+      "id_seguimiento": 6,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.2617935538291931,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:44.877259",
+      "id_seguimiento": 13,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.4289981722831726,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:45.148737",
+      "id_seguimiento": 12,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.3836280405521393,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:45.148737",
+      "id_seguimiento": 14,
+      "tipo_vehiculo": "Autobús",
+      "confianza": 0.5149233937263489,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:45.271431",
+      "id_seguimiento": 17,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.3600323498249054,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:45.830186",
+      "id_seguimiento": 12,
+      "tipo_vehiculo": "Camión",
+      "confianza": 0.14032655954360962,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:46.647254",
+      "id_seguimiento": 22,
+      "tipo_vehiculo": "Autobús",
+      "confianza": 0.3340432643890381,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:47.148361",
+      "id_seguimiento": 17,
+      "tipo_vehiculo": "Autobús",
+      "confianza": 0.17427949607372284,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:47.277710",
+      "id_seguimiento": 12,
+      "tipo_vehiculo": "Autobús",
+      "confianza": 0.1564587503671646,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:47.526516",
+      "id_seguimiento": 32,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.4119798243045807,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:47.862574",
+      "id_seguimiento": 5,
+      "tipo_vehiculo": "Camión",
+      "confianza": 0.154547780752182,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:47.862574",
+      "id_seguimiento": 34,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.6851056814193726,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:48.098613",
+      "id_seguimiento": 36,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.5535079836845398,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:48.717026",
+      "id_seguimiento": 5,
+      "tipo_vehiculo": "Autobús",
+      "confianza": 0.35900604724884033,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:48.976343",
+      "id_seguimiento": 45,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.5680097937583923,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:49.102249",
+      "id_seguimiento": 3,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.3005586564540863,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:49.474864",
+      "id_seguimiento": 51,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.3335903286933899,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:50.766834",
+      "id_seguimiento": 4,
+      "tipo_vehiculo": "Camión",
+      "confianza": 0.36580926179885864,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:51.852294",
+      "id_seguimiento": 3,
+      "tipo_vehiculo": "Camión",
+      "confianza": 0.17006447911262512,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:53.933462",
+      "id_seguimiento": 67,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.365046888589859,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T20:22:54.222460",
+      "id_seguimiento": 69,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.39606860280036926,
+      "primera_deteccion": true
+    }
+  ]
+}
