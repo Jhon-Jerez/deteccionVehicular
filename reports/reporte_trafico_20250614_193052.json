@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "fecha_generacion": "2025-06-14T19:30:52.584484",
+    "fuente_video": "C:/Users/Usuario/OneDrive/Escritorio/deteccionVehicular/1.mp4",
+    "total_vehiculos_unicos": 17,
+    "total_eventos_deteccion": 17,
+    "periodo_analisis": null
+  },
+  "resumen_por_tipo": {
+    "Autobús": 4,
+    "Automóvil": 13
+  },
+  "vehiculos_unicos_detectados": {},
+  "detecciones_primera_aparicion": [
+    {
+      "timestamp": "2025-06-14T19:30:10.400102",
+      "id_seguimiento": 3,
+      "tipo_vehiculo": "Autobús",
+      "confianza": 0.6510105133056641,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T19:30:12.752673",
+      "id_seguimiento": 5,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.3355672359466553,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T19:30:19.262633",
+      "id_seguimiento": 13,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.5257102847099304,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T19:30:20.346857",
+      "id_seguimiento": 79,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.36807781457901,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T19:30:20.653952",
+      "id_seguimiento": 12,
+      "tipo_vehiculo": "Autobús",
+      "confianza": 0.14613395929336548,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T19:30:24.091857",
+      "id_seguimiento": 32,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.7485525608062744,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T19:30:28.930005",
+      "id_seguimiento": 100,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.6259104609489441,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T19:30:31.052609",
+      "id_seguimiento": 123,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.470232754945755,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T19:30:34.334924",
+      "id_seguimiento": 121,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.6317482590675354,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T19:30:36.976586",
+      "id_seguimiento": 105,
+      "tipo_vehiculo": "Autobús",
+      "confianza": 0.46166834235191345,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T19:30:36.976586",
+      "id_seguimiento": 137,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.5388932824134827,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T19:30:42.407058",
+      "id_seguimiento": 133,
+      "tipo_vehiculo": "Autobús",
+      "confianza": 0.4920397102832794,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T19:30:43.372089",
+      "id_seguimiento": 178,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.6501319408416748,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T19:30:43.490269",
+      "id_seguimiento": 206,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.6829869747161865,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T19:30:46.119059",
+      "id_seguimiento": 222,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.7310901880264282,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T19:30:47.597361",
+      "id_seguimiento": 316,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.5193966627120972,
+      "primera_deteccion": true
+    },
+    {
+      "timestamp": "2025-06-14T19:30:48.122311",
+      "id_seguimiento": 176,
+      "tipo_vehiculo": "Automóvil",
+      "confianza": 0.5236984491348267,
+      "primera_deteccion": true
+    }
+  ]
+}
